@@ -1,0 +1,1 @@
+Frontend da aplicação my-money-app, estudo de react/redux 
